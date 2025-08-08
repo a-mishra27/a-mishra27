@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amisha-27-mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amisha-27-mishra" height="30" width="40" /></a>
-<a href="[https://www.leetcode.com/a_27_](https://leetcode.com/u/a_27_m/)m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="a_27_m" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/a_27_m/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="a_27_m" height="30" width="40" /></a>
 <a href="https://discord.gg/a_27_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="a_27_m" height="30" width="40" /></a>
 </p>
 
