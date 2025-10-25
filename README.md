@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **amishamishra872@gmail.com**
 
-- ⚡ Fun fact **I kind of like coding**
+- ⚡ Fun fact **Cogito Ergo Sum**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
