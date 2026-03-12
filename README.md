@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amisha Mishra</h1>
 <h3 align="center">A passionate coder from India</h3>
 
-- 🔭 I’m currently working on **how LLM works**
+- 🔭 I’m currently working on **enhancing skills in web development technologies**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
