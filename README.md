@@ -54,7 +54,7 @@
 ---
 
 ### 🚀 Projects
-- 🔹 [AI Interview Platform](https://github.com/a-mishra27/ai-interview-platform)
+- 🔹 [AI Interview Platform](https://interview-inky-alpha.vercel.app/)
 - 🔹 More projects coming soon...
 
 ---
