@@ -53,14 +53,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-mishra27&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 🚀 Projects
 - 🔹 [AI Interview Platform](https://github.com/a-mishra27/ai-interview-platform)
 - 🔹 More projects coming soon...
