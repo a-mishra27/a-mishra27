@@ -16,7 +16,7 @@
 ---
 
 ### 👩‍💻 About Me
-- 🔭 Working on **AI Interview Preparation Platform**
+- 🔭 Working on **Frontend Development Skills**
 - 🌱 Currently learning **MERN Stack**
 - 👯 Open to collaborate on **Web Development Projects**
 - 💬 Ask me about **Frontend, JavaScript, DSA**
