@@ -45,7 +45,7 @@ A Computer Science student at KIIT University, building my own path into softwar
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="190" alt="Animated coding scene"/>
+<img src="https://media.giphy.com/media/6bdgwW6B0ooer3r8AZ/giphy.gif" width="220" alt="Anime girl aesthetic"/>
 
 <br/>
 
@@ -229,7 +229,9 @@ A collaborative regulatory compliance project for document analysis, risk scorin
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2600&pause=800&color=F9A8D4&center=true&vCenter=true&width=650&lines=Every+hero+starts+somewhere.;My+story+is+still+being+written...;%E7%B6%9A%E3%81%91%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E5%8A%9B%E3%81%AA%E3%82%8A" alt="Anime-inspired closing message"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2600&pause=800&color=F9A8D4&center=true&vCenter=true&width=650&lines=Every+hero+starts+somewhere;My+story+is+still+being+written;Persistence%20is%20power" alt="Animated closing message"/>
+
 
 <br/>
 
