@@ -45,7 +45,7 @@ A Computer Science student at KIIT University, building my own path into softwar
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/6bdgwW6B0ooer3r8AZ/giphy.gif" width="220" alt="Anime girl aesthetic"/>
+<img src="https://media.giphy.com/media/xWIklyBVywrEjcMKWJ/giphy.gif" width="220" alt="Demon Slayer anime GIF"/>
 
 <br/>
 
